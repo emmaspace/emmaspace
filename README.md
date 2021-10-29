@@ -12,7 +12,7 @@ Two dogs, one cat and some plants :dog::dog: :cat: :seedling::herb::cactus:  :sp
 - 🔭 I’m currently working on [MD-Links](https://github.com/emmaspace/CDMX011-md-links)
 - 🌱 I’m currently learning Node, Jest and pretty soon I'll start with React
 - 💭 My future plans are to learn Python and get into Natural Language Processing
-- 😄 Pronouns: she/her, they/them
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I don't like avocado :stuck_out_tongue_closed_eyes:
 - 📫 Let's connect!   <a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" height=20px/></a>
 
