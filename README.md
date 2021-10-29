@@ -14,7 +14,7 @@ Two dogs, one cat and some plants :dog::dog: :cat: :seedling::herb::cactus:  :sp
 - 💭 My future plans are to learn Python and get into Natural Language Processing
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I don't like avocado :stuck_out_tongue_closed_eyes:
-- 📫 Let's connect!   <a href="https://www.linkedin.com/in/emma-rosa-ramirez-aguila/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" height=20px/></a>
+- 📫 Let's connect!   <a href="https://www.linkedin.com/in/emma-rosa-ramirez-aguila/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" height=20px/></a>
 
 <h2 align="center">Tools and technologies</h2>
 
