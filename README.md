@@ -4,9 +4,8 @@
 
 <img alt="Pixel art of Emma" src="https://cdn.glitch.me/d2ab2403-ec2a-47bb-9c82-30a5c72c4859%2Fimage.png?v=1635474712492" align="right" width=200px/>
 
-Student at <img alt="Laboratoria" src="https://img.shields.io/badge/-%3CLaboratoria%3E-%23FFE71A?style=for-the-badge&logo" height=20px/>, bootcamp where I'm learning the tech and life skills needed to become a front end developer :computer: 
-Mexican 🇲🇽
-Hispanic language and literature student :books:
+Student at <img alt="Laboratoria" src="https://img.shields.io/badge/-%3CLaboratoria%3E-%23FFE71A?style=for-the-badge&logo" height=20px/>, bootcamp where I'm learning the tech and life skills needed to become a front end developer :computer:  | Mexican 🇲🇽 |
+Hispanic language and literature student :books: |
 Two dogs, one cat and some plants :dog::dog: :cat: :seedling::herb::cactus:  :sparkles:
 
 
@@ -15,6 +14,7 @@ Two dogs, one cat and some plants :dog::dog: :cat: :seedling::herb::cactus:  :sp
 - 💭 My future plans are to learn Python and get into Natural Language Processing
 - 😄 Pronouns: she/her, they/them
 - ⚡ Fun fact: I don't like avocado :stuck_out_tongue_closed_eyes:
+- 📫 Let's connect!   <a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" height=20px/></a>
 
 <h2 align="center">Tools and technologies</h2>
 
