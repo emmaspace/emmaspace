@@ -1,6 +1,6 @@
 [//]: <> (https://shields.io/, https://simpleicons.org/?q=node, https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Hi! Welcome to Emma's space</h1>
+<h1 align="center">Hi! Welcome to Emma's space 💫</h1>
 
 <img alt="Pixel art of Emma" src="https://cdn.glitch.me/d2ab2403-ec2a-47bb-9c82-30a5c72c4859%2Fimage.png?v=1635474712492" align="right" width=200px/>
 
