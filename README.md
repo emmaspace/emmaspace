@@ -1,6 +1,6 @@
 [//]: <> (https://shields.io/, https://simpleicons.org/?q=node, https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Hi! I'm Emma</h1>
+<h1 align="center">Hi! Welcome to Emma's space</h1>
 
 <img alt="Pixel art of Emma" src="https://cdn.glitch.me/d2ab2403-ec2a-47bb-9c82-30a5c72c4859%2Fimage.png?v=1635474712492" align="right" width=200px/>
 
@@ -12,6 +12,7 @@ Two dogs, one cat and some plants :dog::dog: :cat: :seedling::herb::cactus:  :sp
 
 - 🔭 I’m currently working on [MD-Links](https://github.com/emmaspace/CDMX011-md-links)
 - 🌱 I’m currently learning Node, Jest and pretty soon I'll start with React
+- 💭 My future plans are to learn Python and get into Natural Language Processing
 - 😄 Pronouns: she/her, they/them
 - ⚡ Fun fact: I don't like avocado :stuck_out_tongue_closed_eyes:
 
