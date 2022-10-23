@@ -3,7 +3,7 @@
 <img alt="Pixel art of Emma" src="https://cdn.glitch.me/d2ab2403-ec2a-47bb-9c82-30a5c72c4859%2Fimage.png?v=1635474712492" align="right" width=200px/>
 
 Fullstack software specialist at Improving Nearshore :computer:  | Mexican 🇲🇽 |
-Computer systems student :books: |
+Computer systems student :books: | Laboratorian <img alt="Laboratoria" src="https://img.shields.io/badge/-%3CL%3E-%23FFE71A?style=for-the-badge&logo" height=18px width=18px/> |
 Two dogs, one cat and some plants :dog::dog: :cat: :seedling::herb::cactus:  :sparkles:
 
 - 🌱 I’m currently learning Vue and improving my Node knowledge
